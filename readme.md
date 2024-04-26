@@ -32,7 +32,7 @@ Cerca de 39% dos entrevistados possui diploma universitário mas cerca de 59% po
 
 A concentração da idade dos entrevistados está entre 35 e 65 anos.
 
-![Boxplot Idade](/assets/Boxplot_idade.png)
+![Boxplot Idade](/assets/Boxplot_Idade.png)
 
 **Distribuição por gênero:**
 
